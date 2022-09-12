@@ -1,0 +1,39 @@
+body{
+    padding: 30px;
+    background-color: black;
+    font-weight: bold;
+}
+#main-dv{
+    width: 358px;
+    height: 285px;
+    background:url(istock.jpg) ;
+    margin: auto;
+    text-align: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+#head-bj{
+color: gold;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#message-el{
+    font-style: italic;
+}
+#btn{
+    color: #1b5a10;
+    width: 150px;
+    background-color: rgb(255, 183, 0);
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#nbtn{
+    color: #1b5a10;
+    width: 150px;
+    background-color: rgb(255, 183, 0);
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 7px;
+}
